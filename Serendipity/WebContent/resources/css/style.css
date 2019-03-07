@@ -1,0 +1,11 @@
+.table-dark thead th {
+  color: #fff;
+  background-color: #212529;
+  border-color: #32383e;
+}
+
+.table-light thead th {
+  color: #495057;
+  background-color: #e9ecef;
+  border-color: #e9ecef;
+}
