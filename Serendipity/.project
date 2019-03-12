@@ -28,26 +28,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>WebContent/resources/css/bootstrap-grid.min.css</name>
-			<type>1</type>
-			<location>D:/Users/jeronimo.eichler/Downloads/bootstrap-4.0.0-beta.2-dist/css/bootstrap-grid.min.css</location>
-		</link>
-		<link>
-			<name>WebContent/resources/css/bootstrap-reboot.min.css</name>
-			<type>1</type>
-			<location>D:/Users/jeronimo.eichler/Downloads/bootstrap-4.0.0-beta.2-dist/css/bootstrap-reboot.min.css</location>
-		</link>
-		<link>
-			<name>WebContent/resources/css/bootstrap.min.css</name>
-			<type>1</type>
-			<location>D:/Users/jeronimo.eichler/Downloads/bootstrap-4.0.0-beta.2-dist/css/bootstrap.min.css</location>
-		</link>
-		<link>
-			<name>WebContent/resources/js/bootstrap.min.js</name>
-			<type>1</type>
-			<location>D:/Users/jeronimo.eichler/Downloads/bootstrap-4.0.0-beta.2-dist/js/bootstrap.min.js</location>
-		</link>
-	</linkedResources>
 </projectDescription>
