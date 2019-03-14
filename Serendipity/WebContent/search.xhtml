@@ -33,7 +33,7 @@
 				<h:outputLabel for="fieldSearch" styleClass="row">Search: </h:outputLabel>
 				
 				<h:inputTextarea id="fieldSearch" value="#{searchBean.queryString}" rows="5" style="width: 100%;" required="true" label="Search box" styleClass="row"
-				p:placeholder="select distinct ?s where {&#10;         ?s &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt;  &lt;http://dbpedia.org/ontology/Band&gt;&#10;} " >
+				p:placeholder="select distinct ?s where {&#10;         ?s &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt;  &lt;http://dbpedia.org/ontology/Band&gt;. &#10;} " >
 					<f:ajax/>
 					<f:validator validatorId="queryValidator"/>
 				</h:inputTextarea>
