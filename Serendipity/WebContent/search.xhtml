@@ -21,11 +21,15 @@
 	<f:metadata>
 		<f:viewParam name="step" value="#{searchBean.searchStep}"></f:viewParam>
 	</f:metadata>
+	
+	<h3 style="text-align: center; font-weight: bold;">Serendipity Over Linked Data - Tool</h3>
+			
 
 	<h:form id="formSearch">
 		<h:panelGroup id="rowSearchBox" styleClass="row">
 			<h:panelGroup styleClass="col-2"></h:panelGroup>
 			<h:panelGroup id="actionOption"  styleClass="col-8 justify-content-center" style="border: 1;">	
+			
 				<h:outputLabel for="fieldSearch" styleClass="row">Search: </h:outputLabel>
 				
 				<h:inputTextarea id="fieldSearch" value="#{searchBean.queryString}" rows="5" style="width: 100%;" required="true" label="Search box" styleClass="row"
