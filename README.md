@@ -6,8 +6,6 @@ Serendipity patterns are used here to provide additional and unexpected data rel
 
 The SOL-Tool was developed in Java with the Jena framework [1], a well-stabilized framework for Linked Data query processing and data manipulation, and Java Concurrent API[2] to parallelize the task of invoking remote datasets. The source code of SOL-Tool core is available in [3].
 
-Back to Search 
-
 # References 
 1. https://jena.apache.org/
 2. http://docs.oracle.com/javase/8/docs/api/?java/util/concurrent/package-summary.html
